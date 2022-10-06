@@ -1,5 +1,4 @@
-//To run this code please open the terminal and run the following command: node Question-1.js
-
+//To run this code please open the terminal and run the following command: npm run Q1
 //Farshad Jalali Ameri - 101303158
 
 const mixedArray = ['PIZZA', 10, true, 25, false, 'Wings']

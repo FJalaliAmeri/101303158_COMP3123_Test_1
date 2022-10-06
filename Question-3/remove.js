@@ -1,4 +1,4 @@
-//To run this code please open the terminal and run the following command: remove.js
+//To run this code please open the terminal and run the following command: npm run Q3R
 
 //Farshad Jalali Ameri - 101303158
 

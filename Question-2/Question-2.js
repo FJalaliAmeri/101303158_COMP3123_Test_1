@@ -1,4 +1,4 @@
-//To run this code please open the terminal and run the following command: node Question-2.js
+//To run this code please open the terminal and run the following command: npm run Q2
 
 //Farshad Jalali Ameri - 101303158
 
