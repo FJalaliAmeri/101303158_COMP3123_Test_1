@@ -1,0 +1,24 @@
+{
+  "name": "101303158_comp3123_test_1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "Q1": "node ./Question-1/Question-1.js",
+    "Q2": "node ./Question-2/Question-2.js",
+    "Q3A": "node ./Question-3/add.js",
+    "Q3R": "node ./Question-3/remove.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FJalaliAmeri/101303158_COMP3123_Test_1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FJalaliAmeri/101303158_COMP3123_Test_1/issues"
+  },
+  "homepage": "https://github.com/FJalaliAmeri/101303158_COMP3123_Test_1#readme"
+}
